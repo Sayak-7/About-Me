@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sayak Adhikary.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on learning Javascript.
 - 📫 How to reach me soham07manutd@gmail.com
 
 <!---
